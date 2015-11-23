@@ -1,0 +1,10 @@
+La Comuna de París fue un movimiento...;Del mayo de 68;Hippie de los años 60;Insurrecional autogestionario del XIX;2;100
+¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?;Fidel Castro;Hugo Chávez;Evo Morales;1;100
+¿De qué fue ministro Manuel Fraga durante el franquismo?;De Interior;De Economía;De Información y Turismo;2;200
+¿Quiénes fueron los sans-culottes de la Revolución Francesa?;La burguesía durante la Revolución;La principal masa social revolucionaria;El nombre despectivo de los burgueses;1;200
+¿Cuál es la rama mayoritaria del Islam?;Chiísmo;Sunismo;Jariyismo;1;300
+¿En qué año tuvo lugar el ataque a Pearl Harbor?;1940;1941;1942;2;300
+¿A qué presidente ceso el rey Alfonso XIII tras las reacciones que sucedieron a la Semana Trágica?;Eduardo Dato;Antonio Maura;Cánovas del Castillo;1;400
+¿Qué motivó la rebelión que dio lugar a la Guerra de la Independencia de EEUU?;Esclavitud;Impuesto;Represión;1;400
+¿Cuántos soldados argentinos murieron en la Guerra de las Malvinas?;649;987;1452;0;500
+¿Cuál es la ciudad más antigua de América Latina?;Caral;Valparaíso;Arequipa;0;500

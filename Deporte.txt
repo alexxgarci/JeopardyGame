@@ -1,0 +1,10 @@
+¿Cuantos años tiene Messi?;27años;28años;29años;1;100
+¿En que año el F.C.Barcelona consiguió su primer triplete?;2010;2011;2009;2;100
+¿A que entrenador de futbol se le conoce con el seudonimo "The special one"?;Louis van Gaal;Pep Guardiola;Jose Mourinho;2;200
+¿Qué jugador es el que mas titulos mundiales ha conseguido?;Maradona;Pele;Gerd Muller;1;200
+¿Que selcción sudamericana tiene mas Copas America?;Uruguay;Brasil;Argentina;0;300
+¿Que jugador en activo tiene mas títulos?;Roger Federer;Rafael Nadal;Novak Djokovic;0;300
+¿Cuantas copas de europa tiene el A.C.Milan?;7;5;4;0;400
+¿Cuantas medallas tiene Michael Phelps?;20;21;22;2;400
+¿Quien marco el gol que le dio la victoria de futbol en 2014 a Alemania en Maracana?;Muller;Gotze;Toni Kroos;1;500
+¿Que entrenador de futbol tiene mas edad?;Louis van Gaal;Arsène Wenger;David Moyes;1;500

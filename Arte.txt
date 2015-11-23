@@ -1,0 +1,10 @@
+﻿Cuando el El grito de Munch fue robado por primera vez ¿Qué nota dejaron los autores del expolio?;Tranquilos, lo trataremos bien;Hemos tenido que amordazar el cuadro;Grácias por la falta de seguridad;2;100
+¿Quién pintó el cuadro El Jardín de las delicias?;El Bosco;Velázquez;Caravaggio;0;100
+¿Cómo se denomina la época que atravesó Pablo Ruíz Picasso de 1901 a 1904?;Cubismo;Período Azul;Período Rosa;1;200
+¿Cuándo surgió el expresionismo?; Siglo XIX;Siglo XVII;Siglo XX;2;200
+¿Dónde se formó como pintor Salvador Dalí?;Escuela de bellas artes de Madrid;Escuela de bellas artes de Barcelona;Es Autodidacta;0;300
+¿Cómo se titula la obra de Dalí en la que aparecen los famosos relojes blandos?;El gran masturbador;La persistencia de la memoria;Soledad paranóico-crítica;1;300
+¿Qué familia aparece en Las meninas de Velázquez?;La familía de Felipe IV;La familía de Fernando VI;La familía de Carlos II;0;400
+¿Cuándo se fundó el Museo Británico?;1907;1897;1753;2;400
+¿Por cuanto se vendio el cuadro llamado numero 5 de Jackson Pollock?;10 millones de dólares;75 millones de dólares;140 millones de dólares;2;500
+¿Quién encargó El David de Miguel Ángel?;Los Medici;El Papa Julio II;la Cooperativa de Mercaderes de la lana de Florencia;2;500

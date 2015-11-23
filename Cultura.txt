@@ -1,0 +1,10 @@
+¿Quien pintó el cuadro de “Las meninas”?;Velázquez;Rembrandt;Picasso;0;100
+¿Con qué colores suele tener problemas un daltónico?;Amarillo y azul;Verde y amarillo;Rojo y verde;2;100
+Bucarest es la capital de:;Rumanía;Hungría;Letonia;0;200
+La batalla de Lepanto fue ganada por los españoles contra los:;Ingleses;Turcos;Griegos;1;200
+¿Qué animal podría sobrevivir a una explosión nuclear?;Ratón;Cucaracha;Escorpión;1;300
+Qué emperador Romano hizo senador a su caballo?;Julio César;Nerón.;Calígula;2;300
+¿Cómo se llama el primer satélite enviado al espacio desde la Tierra?:;Satélite ERS-2;Sputnik 1;Mexsat;1;400
+El gentilicio de la provincia de Gerona es:;Gerundiano;Gerundense;Geronense;2;400
+¿Quien fue un arquitecto del siglo XVIII que diseñava arquitecturas fantásticas y casi imposibles?;Giovanni Battista Piranesi;Escopas de Paros;Étienne-Louis Boullée;2;500
+¿Cual era el nombre completo del pintor italiano Canaletto?;Giovanni Battista;Giovanni Antonio;Tiziano Vecellio;1;500

@@ -1,0 +1,10 @@
+¿Con qué suele arreglarse un diente con caries?;Empaste;Limpieza bucal;Ortodoncia;0;100
+¿Con que parte del cuerpo hacen el zumbido las abejas?;Con las patas;Con las alas;Con las antenas;1;100
+¿Cuántas cavidades estomacales tiene una vaca?;Dos;Cuatro;Ocho;1;200
+¿De donde de saca la sacarina?;Del aceite de girasol;Del azúcar;Del carbón;2;200
+¿Cómo se llama el nivel más alto de la marea?;Pleamar;Bajamar;Repunte;0;300
+¿Por qué los cocodrilos mantienen la boca abierta durante largo rato?;Para calentarse;Para hacer la digestión;Por si se cuela algo que puedan comerse;0;300
+¿Cómo se llama a los electrones que se encuentran en la última capa del átomo?;Electrones de valencia;Isotopos;Iones;0;400
+¿Qué sonido hace un elefante?;Brugen;Gruñen;Baritan;2;400
+¿Qué contiene el cactus llamado peyote?;LSD;Salvia;Mescalina;2;500
+¿Qué cambio de estado ocurre en la sublimación?;De sólido a líquido;De sólido a gaseoso;De gaseoso a líquido;1;500

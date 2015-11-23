@@ -1,0 +1,10 @@
+﻿¿Cual es el nombre completo de Homer de Los Simpson?;Homer J.Simpson;Homer Jay Simpson;Homero;1;100
+¿Quién es la mascota de SEGA?;Sonic;Pac Man;Mario;0;100
+¿De qué nacionalidad es Rajesh Koothrappali de la serie Big Bang?;Turca;India;Judia;1;200
+¿Cuantos canales había en los orígenes de la TV en España?;1;4;2;2;200
+¿Cómo se llama la ciudad en la que actúa Flash?;Gotham City;Los Santos;Central City;2;300
+¿En qué se basó Bob Kane para crear Batman?;El murciélago que tenía de niño;Plagiar a Superman;En el aparato volador de Miguel Ángel;2;300
+¿Qué cadena efectuó las primeras emisiones de TV?;BBC;FOX;TVE;0;400
+¿A quién encarnó Leonard Nimoy?;Lex Luthor;Spock;Boba Fett;1;400
+¿Que dia se celebra el Día Mundial de la Televisión?;21 de Noviembre;19 de Agosto;27 de Marzo;0;500
+¿Cual fue el nombre preliminar de La Fuerza en Star Wars?;El eso;Ello;El Bogen;2;500

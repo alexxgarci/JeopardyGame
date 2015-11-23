@@ -1,0 +1,10 @@
+﻿Howard Phillips Lovecraft escribió;Poesía;Cuentos de terror;Novelas de amor;1;100
+Don Quijote de la ...;Torre;Aldea;Mancha;2;100
+Autor de El secreto de sus ojos;Julio Cortázar;Gabriel García Marquez;Eduardo Sacheri;2;200
+Brilla por su ...;Elegancia;Ausencia;Presencia;1;200
+¿Cuál de las siguientes afirmaciones se corresponde con la trilogía El señor de los anillos?;Hasta el más pequeño puede hacer grandes actos;No hay que alejarse de donde uno vive;Los viejos hábitos nunca mueren;0;300
+¿Quién siembra vientos recoge...;Tempestades;Tormentas;Rayos;0;300
+¿El escritor de El padrino es?;Mario Benedetti;Eduardo Sacheri;Mario Puzzo;2;400
+¿Quién de ellos no escribe libros?;Michael Palmer;Michael Buble;Michael Conelly;1;400
+Harry Potter siempre quiso ser;Auror;Muggle;Director de Howards;0;500
+¿Qué poeta sevillano era ganadero de reses bravas?;Rafael Laffón;Ignacio Sánchez Mejías;Fernando Villalón;2;500

@@ -1,0 +1,10 @@
+¿En qué país se va a construir el puente colgante más largo y alto del mundo?;Japón;EE UU;China;2;100
+¿Por qué delitos se ha imputado a la infanta Cristina?;Por blanqueo y delito fiscal;Por blanqueo y cohecho;Por cohecho y malversación;0;100
+¿Por qué dice Jennifer Lawerence que se cayó en los Oscar?;Porque estaba pensando en tartas;Porque tropezó con el vestido;Porque las escaleras estaban mojadas;0;200
+¿Cuál es la única línea de AVE rentable?;Madrid-Valladolid;Ninguna es rentable;Madrid-Barcelona;1;200
+¿Cuál es el título de la próxima película de Pedro Almodóvar?;Julieta;Sobrevivir;Silencio;2;300
+¿Qué tiene que hacer todo aquel que quiera visitar la cueva de Altamira?;La entrada a la cueva no está permitida;Hay que apuntarse en una lista de espera;Se decide por sorteo entre los visitantes al Museo de Altamira;2;300
+Tim Cook, el jefe de Apple, ha anunciado que donará toda su fortuna, pero ¿a quién le dejará una pequeña cantidad?;A su hija;A Mark Zuckerberg;A su sobrino;2;400
+¿Cómo perdió la atmósfera Marte?;Los meteoritos acabaron con ella;Por culpa del viento solar;Se congeló;1;400
+¿Cómo ese llama el  escritor que ha recibido el prestigioso Premio Cervantes 2015?;Fernández del Paso;Nicanor Parra;Álvaro Mutis;0;500
+¿Cuántas horas de vuelo acumulaba Andreas Lubitz, copiloto del vuelo GWI9525(Desastre de German Wings)?;1950;6020;630;2;500

@@ -1,0 +1,3 @@
+Player: paula;Score: -100
+Player: sergi;Score: -200
+00
